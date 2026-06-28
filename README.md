@@ -14,6 +14,3 @@ searches for the target word, and reports matches in a clear and structured mann
 
 This project demonstrates key operating system concepts including thread creation, workload distribution, synchronization, and performance optimization
 through parallelism. It also highlights good practices in concurrent programming such as safe shared-state management and clean thread lifecycle handling.
-
-Overall, this project serves as a practical example of applying multithreading to solve a real-world problem, making it suitable for learners aiming to strengthen 
-their understanding of operating systems, concurrency, and systems-level programming.
